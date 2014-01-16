@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FickleStripper", "FickleStripper\FickleStripper.csproj", "{9A6827A6-53E8-406E-8000-AEF299559611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginsFramework", "PluginsFramework\PluginsFramework.csproj", "{F478FBD4-05BD-4851-B4E1-DB1DAFA7FB0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins", "Plugins\Plugins.csproj", "{63D16C2A-0D8F-4EDB-BCC7-12033085BC35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A6827A6-53E8-406E-8000-AEF299559611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6827A6-53E8-406E-8000-AEF299559611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6827A6-53E8-406E-8000-AEF299559611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6827A6-53E8-406E-8000-AEF299559611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F478FBD4-05BD-4851-B4E1-DB1DAFA7FB0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F478FBD4-05BD-4851-B4E1-DB1DAFA7FB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F478FBD4-05BD-4851-B4E1-DB1DAFA7FB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F478FBD4-05BD-4851-B4E1-DB1DAFA7FB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63D16C2A-0D8F-4EDB-BCC7-12033085BC35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D16C2A-0D8F-4EDB-BCC7-12033085BC35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D16C2A-0D8F-4EDB-BCC7-12033085BC35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D16C2A-0D8F-4EDB-BCC7-12033085BC35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

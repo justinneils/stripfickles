@@ -1,0 +1,4 @@
+FickleStripper C#
+================
+
+initial upload
